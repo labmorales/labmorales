@@ -1,6 +1,6 @@
 ### Hi, I'm André Morales 👋
 
-I'm a full stack developer/CTO/Partnet at [iComunicação](https://icomunicacao.com.br) and [Faros Educacional](https://faroseducacional.com.br)
+I'm a full stack developer/CTO/Partner at [iComunicação](https://icomunicacao.com.br) and [Faros Educacional](https://faroseducacional.com.br)
 
 - Currently building a lot of sites with WordPress/Bedrock
 - Learning best practices for Redux/React.js
