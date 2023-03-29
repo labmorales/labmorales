@@ -1,10 +1,10 @@
 ### Hi, I'm André Morales 👋
 
-I'm a full stack developer/CTO/Partner at [iComunicação](https://icomunicacao.com.br) and [Faros Educacional](https://faroseducacional.com.br)
+I break and sometimes build cool things in Web and Mobile. 🎉
 
-- Currently building a lot of sites with WordPress/Bedrock
-- Learning best practices for Redux/React.js
-- Trying to improve my NodeJS skills
+- Currently building stuff with React Native and Rust
+- Improving my type game in TypeScript
+- Slowly learning more about K8s
 - You can reach me on [linkedin](https://www.linkedin.com/in/labmorales/)
 <!--
 **labmorales/labmorales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
