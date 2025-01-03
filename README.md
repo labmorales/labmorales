@@ -2,7 +2,7 @@
 
 I break and sometimes build cool things in Web and Mobile. 🎉
 
-- Currently building stuff with React Native and Rust
+- Currently building stuff with NextJS, React Native, and Rust
 - Improving my type game in TypeScript
 - Slowly learning more about K8s
 - You can reach me on [linkedin](https://www.linkedin.com/in/labmorales/)
